@@ -19,10 +19,8 @@
     padding: 0;
 }
 
-
-
 .notification {
-    background: #F6BA05;
+    background: #03A9F4;
     padding: 20px 20px;
     display: flex;
     flex-direction: row;
@@ -41,13 +39,13 @@
 }
 
 .notification-btn {
-    color: #FFF;
+    color: #ffffff;
     font-family: Tahoma;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
     border-radius: 6px;
-    background: #077BE7;
+    background: #F6BA05;
     padding: 12px 40px;
     cursor: pointer;
 }
